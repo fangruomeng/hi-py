@@ -8,7 +8,7 @@
 
 `pip3 install --user pipx`
 
-`pipx install poetry`
+`python -m pipx install poetry`
 
 ### 克隆本仓库&更改目录
 
